@@ -1,0 +1,8 @@
+pandas==1.2.3
+pyodbc==4.0.30
+virtualenv==20.2.2
+virtualenvwrapper-win==1.2.6
+numpy==1.21.0
+xlrd==2.0.1
+openpyxl==3.0.7
+mysql==0.0.3
